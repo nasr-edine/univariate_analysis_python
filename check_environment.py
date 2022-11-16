@@ -31,7 +31,6 @@ def run_checks():
             requirements.append(pkg)
 
     # check the requirements
-    requirements.append('django')
     for pkg in requirements:
         try:
             mod = importlib.import_module(pkg)
