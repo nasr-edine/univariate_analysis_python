@@ -1,10 +1,12 @@
+![Python](https://badgen.net/pypi/python/black) ![data analysis](https://badgen.net/badge/subject/data_analysis/blue) 
+
 # [Project 2] Participez à un concours sur la Smart City
 
 This is the code repository for my first project in Data Science about Maintaining Urban Trees in Paris, published on December 01, 2022.
 
 ## Prerequisites
 
-- Python interpreter, version 3.6 or higher
+- Python interpreter, version 3.7 or higher
 
 ## Installation
 
