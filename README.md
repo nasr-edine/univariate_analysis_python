@@ -13,13 +13,13 @@ This is the code repository for my first project in Data Science about Maintaini
 clone repository locally
 
 ```bash
-git clone https://github.com/nasr-edine/p2_univariate_analysis.git
+git clone https://github.com/nasr-edine/univariate_analysis_python.git
 ```
 
-Move to the p2_univariate_analysis root folder:
+Move to the univariate_analysis_python root folder:
 
 ```bash
-cd p2_univariate_analysis/
+cd univariate_analysis_python/
 ```
 
 [set up a virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment).
